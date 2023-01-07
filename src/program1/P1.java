@@ -11,6 +11,6 @@ System.out.println("I love my VELOCITY");
 
   
   
-  System.out.println("Mission GitHub Completed")
+  System.out.println("Mission GitHub Completed");
 }
 }
